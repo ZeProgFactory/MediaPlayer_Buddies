@@ -1,2 +1,2 @@
-# MediaPlayer_Buddies
+# MediaPlayer Buddies
 MediaPlayer tests &amp; samples 
