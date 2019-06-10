@@ -3,8 +3,9 @@ MediaPlayer tests &amp; samples
 
 ## Sample\MediaPlayer_Test
 
-| platform | implemented |  
-|--------|:–––––––––:|  
+
+| platform | implemented |
+|----------|:-----------:|
 | Android  |  OK  |  
 | Forms    |  OK  |  
 | iOS      |  OK* |  
@@ -12,5 +13,5 @@ MediaPlayer tests &amp; samples
 | UWP      |  OK  |  
 | WPF      |  OK  |  
 
-*** *) iOS strange bug: You had to press play 2 times than is plays two times, otherwise it don't play ... ***   
+ **) iOS strange bug: You had to press play 2 times than is plays two times, otherwise it don't play ...* 
 
