@@ -30,5 +30,10 @@ namespace MediaPlayer_Test.MacOS
             // Update the view, if already loaded.
          }
       }
+
+      partial void btnPlay(Foundation.NSObject sender)
+      {
+         ZPF.Media.MediaPlayer.Current.Play("http://www.zpf.fr/podcast/01.mp3");
+      }
    }
 }

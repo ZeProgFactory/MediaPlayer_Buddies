@@ -1,4 +1,5 @@
 ﻿using AppKit;
+using AVKit;
 
 namespace MediaPlayer_Test.MacOS
 {
@@ -7,6 +8,7 @@ namespace MediaPlayer_Test.MacOS
       static void Main(string[] args)
       {
          NSApplication.Init();
+
          NSApplication.Main(args);
       }
    }

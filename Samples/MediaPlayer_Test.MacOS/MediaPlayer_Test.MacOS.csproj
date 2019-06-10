@@ -54,10 +54,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.Mac" />
     <Reference Include="ZPFMediaPlayer">
-      <HintPath>..\packages\ZPFMediaPlayer.0.2.2\lib\xamarinmac20\ZPFMediaPlayer.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.iOS">
-      <HintPath>..\..\..\..\..\..\..\Library\Frameworks\Xamarin.iOS.framework\Versions\12.10.0.153\lib\mono\Xamarin.iOS\Xamarin.iOS.dll</HintPath>
+      <HintPath>..\packages\ZPFMediaPlayer.0.3.0\lib\xamarinmac20\ZPFMediaPlayer.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
