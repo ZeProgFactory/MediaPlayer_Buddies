@@ -47,8 +47,8 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="WindowsBase" />
-    <Reference Include="ZPFMediaPlayer, Version=0.2.2.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ZPFMediaPlayer.0.2.2\lib\net471\ZPFMediaPlayer.dll</HintPath>
+    <Reference Include="ZPFMediaPlayer, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZPFMediaPlayer.0.3.0\lib\net471\ZPFMediaPlayer.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
