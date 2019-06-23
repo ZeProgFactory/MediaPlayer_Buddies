@@ -1,5 +1,5 @@
 ﻿# MediaPlayer Buddies
-MediaPlayer tests &amp; samples 
+Very simple MediaPlayer tests &amp; samples for Xamarin, UWP, & WPF  
    
 [You’ll find the story behind this MediaPlayer lib here …](https://zeprogfactory.github.io/MediaPlayer/)  
 [and the cross platform MediaPlayer lib here …](https://github.com/ZeProgFactory/MediaPlayer) 
