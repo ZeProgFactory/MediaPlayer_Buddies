@@ -1,8 +1,11 @@
 ﻿# MediaPlayer Buddies
 MediaPlayer tests &amp; samples 
+   
+[You’ll find the story behind this MediaPlayer lib here …](https://zeprogfactory.github.io/MediaPlayer/)  
+[and the cross platform MediaPlayer lib here …](https://github.com/ZeProgFactory/MediaPlayer) 
+  
 
 ## Sample\MediaPlayer_Test
-
 
 | platform | implemented |
 |----------|:-----------:|
